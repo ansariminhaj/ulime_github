@@ -6,5 +6,5 @@
 https://colab.research.google.com/github/ansariminhaj/ulime_github/blob/main/Imagenet_github.ipynb
 
 ## Training a CNN model on Liver and Pancreatic Tumors
-* The dataset has been kept private. 
-* However, both liver_model.ipynb and pancreas_model.ipynb show the train/validation loss graphs and performance metrics of the trained models.
+* The dataset has been kept private due to patient data confidentiality. However, the outputs from our actual experiments have been preserved. 
+* Both liver_model.ipynb and pancreas_model.ipynb show the train/validation loss graphs and performance metrics of the trained models.
