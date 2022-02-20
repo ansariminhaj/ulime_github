@@ -15,3 +15,6 @@ https://colab.research.google.com/github/ansariminhaj/ulime_github/blob/main/Ima
 
 Here are some of our domain specific superpixelization ULIME explanations for Liver and Pancreatic tumors, with comments from a radiologist (Dr. Richard Kinh Gian Do from the New York Sloan Kettering Cancer Research Center), verifying the explanations.
 
+![alt text](https://github.com/ansariminhaj/ulime_github/blob/main/doc1.PNG?raw=true)
+
+![alt text](https://github.com/ansariminhaj/ulime_github/blob/main/doc2.PNG?raw=true)
