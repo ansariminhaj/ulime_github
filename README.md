@@ -13,7 +13,12 @@ https://colab.research.google.com/github/ansariminhaj/ulime_github/blob/main/Ima
 * The dataset has been kept private due to patient data confidentiality. However, the outputs from our actual experiments have been preserved. 
 * domain_superpixelization.ipynb shows our superpixelization method applied on liver and pancreatic tumors.
 
-Here are some of our domain specific superpixelization ULIME explanations for Liver and Pancreatic tumors, with comments from a radiologist (Dr. Richard Kinh Gian Do from the New York Sloan Kettering Cancer Research Center), verifying the explanations.
+Here are some of our domain specific superpixelization ULIME explanations for Liver and Pancreatic tumors.
+We first compare our version with the authors default quickshift algorithm.
+
+![alt text](https://github.com/ansariminhaj/ulime_github/blob/main/compare_superpixel.PNG?raw=true)
+
+We then request comments from a professional radiologist (Dr. Richard Kinh Gian Do from the New York Sloan Kettering Cancer Research Center), verifying the explanations.
 
 ![alt text](https://github.com/ansariminhaj/ulime_github/blob/main/doc1.PNG?raw=true)
 
